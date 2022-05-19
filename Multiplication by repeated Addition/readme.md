@@ -1,1 +1,1 @@
-
+Multiplication by reapeted addition
