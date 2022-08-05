@@ -1,1 +1,1 @@
-Decoder  2x4
+Decoder 2x4
