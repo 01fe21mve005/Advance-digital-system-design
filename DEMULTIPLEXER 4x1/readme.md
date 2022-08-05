@@ -1,1 +1,1 @@
-Demultiplexer 4X1 
+Demultiplexer 4*1
