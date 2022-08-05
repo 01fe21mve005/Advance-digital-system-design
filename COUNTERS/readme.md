@@ -1,1 +1,1 @@
-UPCOUNTER and DOWNCOUNTER
+Upcounter & Downcounter
