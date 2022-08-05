@@ -1,1 +1,1 @@
-Carry look ahead adder
+Carry Look Ahead Adder
