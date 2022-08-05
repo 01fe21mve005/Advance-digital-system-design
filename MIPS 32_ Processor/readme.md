@@ -1,1 +1,1 @@
-PROCESSOR MIPS 32
+MISP 32 Processor
